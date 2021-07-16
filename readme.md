@@ -5,7 +5,7 @@ Repositorio Administrado
 Programación para plataformas emergentes
 
 ## Wiki
-Se puede encontrar mas de este proyecto en [Wiki](https://github.com.mx/alejf/repoadministrado/wiki)
+Se puede encontrar mas de este proyecto en [Wiki](https://github.com/alejf/repoadministrado/wiki)
 
 ## Autor
 Edgar Alejandro Jarquin Flores
